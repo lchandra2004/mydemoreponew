@@ -1,0 +1,4 @@
+welcome to edureka
+
+
+file3 is created to check the .gitignore option
